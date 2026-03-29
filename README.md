@@ -18,19 +18,19 @@
 cd C:\Users\Sanika\OneDrive\Desktop\wad\ass1b
 
 4) Initialize Git
-git init -b main
+$ git init -b main
 
 5) Add files
-git add .
+$ git add .
 
 6) Commit files
-git commit -m "First commit"
+$ git commit -m "First commit"
 
 7) Copy repository URL
 https://github.com/SanikaDeokar09/assginment-2b.git
 
 8) Add remote
-git remote add origin <URL>
+$ git remote add origin <URL>
 
 9) Push code
-git push -u origin main
+$git push -u origin main
